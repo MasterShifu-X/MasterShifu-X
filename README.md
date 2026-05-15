@@ -1,16 +1,86 @@
-## Hi there 👋
+# 🛡️ Hi, I'm Mirul
 
-<!--
-**MasterShifu-X/MasterShifu-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=SOC+Analyst+%7C+Threat+Hunter;Building+Detection+Systems;Linux+%26+Cybersecurity+Enthusiast;Security+Automation+Explorer;SIEM+%26+Threat+Detection" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🔍 Interested in SOC Operations & Threat Hunting
+- 🛡️ Building cybersecurity labs and security automation projects
+- 🐧 Linux & Detection Engineering enthusiast
+- 📡 Exploring BLE Security Systems
+- 🤖 Interested in AI-assisted Security Tools
+- ♿ Developing accessibility-focused technology projects
+
+---
+
+## ⚒️ Tech Stack
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00ff9d"/>
+<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff9d"/>
+<img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00ff9d"/>
+<img src="https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=00ff9d"/>
+<img src="https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=00ff9d"/>
+<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00ff9d"/>
+<img src="https://img.shields.io/badge/Burp_Suite-0d1117?style=for-the-badge&logo=burpsuite&logoColor=00ff9d"/>
+<img src="https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logo=gnubash&logoColor=00ff9d"/>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff9d&icon_color=00ff9d&text_color=ffffff&bg_color=0d1117"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&title_color=00ff9d&text_color=ffffff&bg_color=0d1117"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true&ring=00ff9d&fire=00ff9d&currStreakLabel=00ff9d"/>
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+- 🛡️ SOC Threat Detection Lab
+- 📊 SIEM Log Monitoring
+- 🐧 Linux Security Monitoring
+- 📡 BLE Security System
+- 🤖 Security Automation Projects
+- ♿ Accessibility-Focused Technology
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff9d"/>
+</a>
+
+</p>
