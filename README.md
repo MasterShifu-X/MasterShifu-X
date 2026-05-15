@@ -38,9 +38,9 @@
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff9d&icon_color=00ff9d&text_color=ffffff&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MasterShifu-X&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff9d&icon_color=00ff9d&text_color=ffffff&bg_color=0d1117"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&title_color=00ff9d&text_color=ffffff&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasterShifu-X&layout=compact&theme=github_dark&hide_border=true&title_color=00ff9d&text_color=ffffff&bg_color=0d1117"/>
 
 </p>
 
@@ -50,7 +50,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true&ring=00ff9d&fire=00ff9d&currStreakLabel=00ff9d"/>
+<img src="https://streak-stats.demolab.com?user=MasterShifu-X&theme=github-dark&hide_border=true&ring=00ff9d&fire=00ff9d&currStreakLabel=00ff9d"/>
 
 </p>
 
@@ -59,7 +59,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/MasterShifu-X/MasterShifu-X/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -79,7 +79,7 @@
 
 <p align="left">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/MasterShifu-X">
 <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff9d"/>
 </a>
 
